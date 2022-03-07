@@ -1,0 +1,22 @@
+{
+  "name": "stoper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JakBel/stoper.git"
+  },
+  "author": "Jakub Bełtowski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JakBel/stoper/issues"
+  },
+  "homepage": "https://JakBel.github.io/stoper",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
